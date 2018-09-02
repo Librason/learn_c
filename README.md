@@ -1,1 +1,1 @@
-# learn_c
+# c for beginners
