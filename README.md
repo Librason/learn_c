@@ -1,1 +1,2 @@
-# c for beginners
+# C for APSC160
+# DAQ module
